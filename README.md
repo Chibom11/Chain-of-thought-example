@@ -14,11 +14,3 @@ It uses the **SambaNova API** with the `Meta-Llama-3.3-70B-Instruct` model to de
   - 🤖 OUTPUT
 
 ---
-
-## 📦 Installation
-
-Clone this repo:
-
-
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
